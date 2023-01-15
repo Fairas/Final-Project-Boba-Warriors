@@ -1,0 +1,5 @@
+# Summary Insight
+
+1. Dari visualisasi di atas dapat disimpulkan bahwa negara france dan Germany memiliki tingkat Churn yang sama dan negara Spain adalah negara dengan tingkat churn paling rendah, rekomendasi bisnis yang mungkin dapat di berikan adalah memrikan perlakuan khusu seperti customer engagement atau menawakan keuntungan jakngka panjang seperti membership program kepada France dan Germany
+2. Dari visualisasi di atas dapat disimpulkan bahwa nasabah dengan masa tenure low lebih banyak atau kebanyakan nasabah bank mimiliki tenure kurang dari 4 tahun, rekomendasi bisnis yang mungkin di berikan adlah memberikan riward kepada nasabah dengan masa tenure tertentu agar supaya nasabah tetap bertahan dan tidak jdi churn.
+3. Dari visualisasi di atas dapat disimpulkan bahwa nasabah yang memiliki credit score dibawah 400 akan cenderung melakukan churn, oleh karena itu kita dapat memperingati kepada perusahaan jika ada nasabah yang akan hit credit scorenya menjadi 400 kebawah, maka potensi churnnya akan lebih besar. Sehingga pihak bank dapat melakukan tindakan persuasi kepada nasabah tersebut seperti memberikan promo menarik.
